@@ -86,36 +86,36 @@ export const MainObjProductsSmartPhone = {
               colorId: "red",
               idTr: "красный",
 
-              src: "../../image/images/iPhone_13/color-1.png",
+              src: "../image/images/iPhone_13/color-1.png",
               alt: "корпус телефона в красном исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_red/red-4.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-4.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_red/red-3.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-3.jpg",
 
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_red/red-2.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-2.jpg",
 
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_red/red-1.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-1.jpg",
 
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_red/red-5.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -125,31 +125,31 @@ export const MainObjProductsSmartPhone = {
               colorId: "gray",
               idTr: "серый",
               alt: "корпус телефона в сером исполнении",
-              src: "../../image/images/iPhone_13/color-2.png",
+              src: "../image/images/iPhone_13/color-2.png",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_gray/gray-1.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-1.png",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_gray/gray-2.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_gray/gray-3.jpg",
+                  src: "../image/images/iPhone_13/img_gray/gray-3.jpg",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_gray/gray-4.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-4.png",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_gray/gray-5.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-5.png",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -158,34 +158,34 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_13/pink/",
               colorId: "pink",
               idTr: "розовый",
-              src: "../../image/images/iPhone_13/color-3.png",
+              src: "../image/images/iPhone_13/color-3.png",
               alt: "корпус телефона в розовом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_pink/pink-4.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-4.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_pink/pink-2.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-2.jpg",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_pink/pink-3.png",
+                  src: "../image/images/iPhone_13/img_pink/pink-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_pink/pink-1.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-1.jpg",
 
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_pink/pink-5.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -194,32 +194,32 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_13/blue/",
               colorId: "blue",
               idTr: "синий",
-              src: "../../image/images/iPhone_13/color-4.png",
+              src: "../image/images/iPhone_13/color-4.png",
               alt: "корпус телефона в голубом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_blue/image-1.png",
+                  src: "../image/images/iPhone_13/img_blue/image-1.png",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_blue/image-2.png",
+                  src: "../image/images/iPhone_13/img_blue/image-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_blue/image-3.png",
+                  src: "../image/images/iPhone_13/img_blue/image-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_blue/image-4.png",
+                  src: "../image/images/iPhone_13/img_blue/image-4.png",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_blue/image-5.png",
+                  src: "../image/images/iPhone_13/img_blue/image-5.png",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -228,34 +228,34 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_13/white/",
               colorId: "white",
               idTr: "белый",
-              src: "../../image/images/iPhone_13/color-5.png",
+              src: "../image/images/iPhone_13/color-5.png",
               alt: "корпус телефона в белом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_white/white-3.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-3.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_white/white-2.png",
+                  src: "../image/images/iPhone_13/img_white/white-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_white/white-1.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-1.jpg",
 
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_white/white-4.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-4.jpg",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_white/white-5.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -264,32 +264,32 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_13/black/",
               colorId: "black",
               idTr: "черный",
-              src: "../../image/images/iPhone_13/color-6.png",
+              src: "../image/images/iPhone_13/color-6.png",
               alt: "корпус телефона в черном исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_black/black-1.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-1.jpg",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_black/black-2.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-2.jpg",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_black/black-3.png",
+                  src: "../image/images/iPhone_13/img_black/black-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_black/black-4.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-4.jpg",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_black/black-5.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -372,36 +372,36 @@ export const MainObjProductsSmartPhone = {
               colorId: "red",
               idTr: "красный",
 
-              src: "../../../../../image/images/iPhone_13/color-1.png",
+              src: "../../../../image/images/iPhone_13/color-1.png",
               alt: "корпус телефона в красном исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_red/red-4.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-4.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_red/red-3.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-3.jpg",
 
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_red/red-2.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-2.jpg",
 
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_red/red-1.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-1.jpg",
 
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_red/red-5.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -411,31 +411,31 @@ export const MainObjProductsSmartPhone = {
               colorId: "gray",
               idTr: "серый",
               alt: "корпус телефона в сером исполнении",
-              src: "../../image/images/iPhone_13/color-2.png",
+              src: "../image/images/iPhone_13/color-2.png",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_gray/gray-1.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-1.png",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_gray/gray-2.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_gray/gray-3.jpg",
+                  src: "../image/images/iPhone_13/img_gray/gray-3.jpg",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_gray/gray-4.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-4.png",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_gray/gray-5.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-5.png",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -444,34 +444,34 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_10/pink/",
               colorId: "pink",
               idTr: "розовый",
-              src: "../../image/images/iPhone_13/color-3.png",
+              src: "../image/images/iPhone_13/color-3.png",
               alt: "корпус телефона в розовом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_pink/pink-4.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-4.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_pink/pink-2.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-2.jpg",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_pink/pink-3.png",
+                  src: "../image/images/iPhone_13/img_pink/pink-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_pink/pink-1.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-1.jpg",
 
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_pink/pink-5.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -480,32 +480,32 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_10/blue/",
               colorId: "blue",
               idTr: "синий",
-              src: "../../image/images/iPhone_13/color-4.png",
+              src: "../image/images/iPhone_13/color-4.png",
               alt: "корпус телефона в голубом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_blue/image-1.png",
+                  src: "../image/images/iPhone_13/img_blue/image-1.png",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_blue/image-2.png",
+                  src: "../image/images/iPhone_13/img_blue/image-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_blue/image-3.png",
+                  src: "../image/images/iPhone_13/img_blue/image-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_blue/image-4.png",
+                  src: "../image/images/iPhone_13/img_blue/image-4.png",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_blue/image-5.png",
+                  src: "../image/images/iPhone_13/img_blue/image-5.png",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -514,34 +514,34 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_10/white/",
               colorId: "white",
               idTr: "белый",
-              src: "../../image/images/iPhone_13/color-5.png",
+              src: "../image/images/iPhone_13/color-5.png",
               alt: "корпус телефона в белом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_white/white-3.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-3.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_white/white-2.png",
+                  src: "../image/images/iPhone_13/img_white/white-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_white/white-1.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-1.jpg",
 
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_white/white-4.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-4.jpg",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_white/white-5.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -550,32 +550,32 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_10/black/",
               colorId: "black",
               idTr: "черный",
-              src: "../../image/images/iPhone_13/color-6.png",
+              src: "../image/images/iPhone_13/color-6.png",
               alt: "корпус телефона в черном исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_black/black-1.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-1.jpg",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_black/black-2.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-2.jpg",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_black/black-3.png",
+                  src: "../image/images/iPhone_13/img_black/black-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_black/black-4.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-4.jpg",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_black/black-5.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -886,36 +886,36 @@ export const MainObjProductsSmartPhone = {
               colorId: "red",
               idTr: "красный",
 
-              src: "../../../../../image/images/iPhone_13/color-1.png",
+              src: "../../../../image/images/iPhone_13/color-1.png",
               alt: "корпус телефона в красном исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_red/red-4.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-4.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_red/red-3.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-3.jpg",
 
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_red/red-2.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-2.jpg",
 
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_red/red-1.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-1.jpg",
 
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_red/red-5.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -925,31 +925,31 @@ export const MainObjProductsSmartPhone = {
               colorId: "gray",
               idTr: "серый",
               alt: "корпус телефона в сером исполнении",
-              src: "../../image/images/iPhone_13/color-2.png",
+              src: "../image/images/iPhone_13/color-2.png",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_gray/gray-1.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-1.png",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_gray/gray-2.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_gray/gray-3.jpg",
+                  src: "../image/images/iPhone_13/img_gray/gray-3.jpg",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_gray/gray-4.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-4.png",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_gray/gray-5.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-5.png",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -958,34 +958,34 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_ch_13/pink/",
               colorId: "pink",
               idTr: "розовый",
-              src: "../../image/images/iPhone_13/color-3.png",
+              src: "../image/images/iPhone_13/color-3.png",
               alt: "корпус телефона в розовом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_pink/pink-4.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-4.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_pink/pink-2.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-2.jpg",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_pink/pink-3.png",
+                  src: "../image/images/iPhone_13/img_pink/pink-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_pink/pink-1.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-1.jpg",
 
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_pink/pink-5.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -994,32 +994,32 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_ch_13/blue/",
               colorId: "blue",
               idTr: "синий",
-              src: "../../image/images/iPhone_13/color-4.png",
+              src: "../image/images/iPhone_13/color-4.png",
               alt: "корпус телефона в голубом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_blue/image-1.png",
+                  src: "../image/images/iPhone_13/img_blue/image-1.png",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_blue/image-2.png",
+                  src: "../image/images/iPhone_13/img_blue/image-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_blue/image-3.png",
+                  src: "../image/images/iPhone_13/img_blue/image-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_blue/image-4.png",
+                  src: "../image/images/iPhone_13/img_blue/image-4.png",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_blue/image-5.png",
+                  src: "../image/images/iPhone_13/img_blue/image-5.png",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -1028,34 +1028,34 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_ch_13/white/",
               colorId: "white",
               idTr: "белый",
-              src: "../../image/images/iPhone_13/color-5.png",
+              src: "../image/images/iPhone_13/color-5.png",
               alt: "корпус телефона в белом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_white/white-3.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-3.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_white/white-2.png",
+                  src: "../image/images/iPhone_13/img_white/white-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_white/white-1.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-1.jpg",
 
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_white/white-4.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-4.jpg",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_white/white-5.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -1064,32 +1064,32 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_ch_13/black/",
               colorId: "black",
               idTr: "черный",
-              src: "../../image/images/iPhone_13/color-6.png",
+              src: "../image/images/iPhone_13/color-6.png",
               alt: "корпус телефона в черном исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_black/black-1.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-1.jpg",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_black/black-2.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-2.jpg",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_black/black-3.png",
+                  src: "../image/images/iPhone_13/img_black/black-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_black/black-4.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-4.jpg",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_black/black-5.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -1172,36 +1172,36 @@ export const MainObjProductsSmartPhone = {
               colorId: "red",
               idTr: "красный",
 
-              src: "../../../../../image/images/iPhone_13/color-1.png",
+              src: "../../../../image/images/iPhone_13/color-1.png",
               alt: "корпус телефона в красном исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_red/red-4.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-4.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_red/red-3.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-3.jpg",
 
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_red/red-2.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-2.jpg",
 
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_red/red-1.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-1.jpg",
 
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_red/red-5.jpg",
+                  src: "../image/images/iPhone_13/img_red/red-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -1211,31 +1211,31 @@ export const MainObjProductsSmartPhone = {
               colorId: "gray",
               idTr: "серый",
               alt: "корпус телефона в сером исполнении",
-              src: "../../image/images/iPhone_13/color-2.png",
+              src: "../image/images/iPhone_13/color-2.png",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_gray/gray-1.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-1.png",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_gray/gray-2.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_gray/gray-3.jpg",
+                  src: "../image/images/iPhone_13/img_gray/gray-3.jpg",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_gray/gray-4.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-4.png",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_gray/gray-5.png",
+                  src: "../image/images/iPhone_13/img_gray/gray-5.png",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -1244,34 +1244,34 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_10/pink/",
               colorId: "pink",
               idTr: "розовый",
-              src: "../../image/images/iPhone_13/color-3.png",
+              src: "../image/images/iPhone_13/color-3.png",
               alt: "корпус телефона в розовом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_pink/pink-4.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-4.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_pink/pink-2.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-2.jpg",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_pink/pink-3.png",
+                  src: "../image/images/iPhone_13/img_pink/pink-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_pink/pink-1.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-1.jpg",
 
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_pink/pink-5.jpg",
+                  src: "../image/images/iPhone_13/img_pink/pink-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -1280,32 +1280,32 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_10/blue/",
               colorId: "blue",
               idTr: "синий",
-              src: "../../image/images/iPhone_13/color-4.png",
+              src: "../image/images/iPhone_13/color-4.png",
               alt: "корпус телефона в голубом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_blue/image-1.png",
+                  src: "../image/images/iPhone_13/img_blue/image-1.png",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_blue/image-2.png",
+                  src: "../image/images/iPhone_13/img_blue/image-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_blue/image-3.png",
+                  src: "../image/images/iPhone_13/img_blue/image-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_blue/image-4.png",
+                  src: "../image/images/iPhone_13/img_blue/image-4.png",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_blue/image-5.png",
+                  src: "../image/images/iPhone_13/img_blue/image-5.png",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -1314,34 +1314,34 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_10/white/",
               colorId: "white",
               idTr: "белый",
-              src: "../../image/images/iPhone_13/color-5.png",
+              src: "../image/images/iPhone_13/color-5.png",
               alt: "корпус телефона в белом исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_white/white-3.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-3.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_white/white-2.png",
+                  src: "../image/images/iPhone_13/img_white/white-2.png",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_white/white-1.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-1.jpg",
 
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_white/white-4.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-4.jpg",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_white/white-5.jpg",
+                  src: "../image/images/iPhone_13/img_white/white-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
@@ -1350,32 +1350,32 @@ export const MainObjProductsSmartPhone = {
               id: "iPhone_10/black/",
               colorId: "black",
               idTr: "черный",
-              src: "../../image/images/iPhone_13/color-6.png",
+              src: "../image/images/iPhone_13/color-6.png",
               alt: "корпус телефона в черном исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../../image/images/iPhone_13/img_black/black-1.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-1.jpg",
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
                 {
                   id: 2,
-                  src: "../../image/images/iPhone_13/img_black/black-2.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-2.jpg",
                   alt: "телефон iPhone в анфас",
                 },
                 {
                   id: 3,
-                  src: "../../image/images/iPhone_13/img_black/black-3.png",
+                  src: "../image/images/iPhone_13/img_black/black-3.png",
                   alt: "телефон iPhone в полуафас",
                 },
                 {
                   id: 4,
-                  src: "../../image/images/iPhone_13/img_black/black-4.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-4.jpg",
                   alt: "увеличенное изображение задней панели в области камеры",
                 },
                 {
                   id: 5,
-                  src: "../../image/images/iPhone_13/img_black/black-5.jpg",
+                  src: "../image/images/iPhone_13/img_black/black-5.jpg",
                   alt: "изображение задней панели телефона и в анфас",
                 },
               ],
