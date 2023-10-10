@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mymarket-react/static/css/main.63250835.css",
-    "main.js": "/mymarket-react/static/js/main.048efa8f.js",
-    "static/js/787.b701888c.chunk.js": "/mymarket-react/static/js/787.b701888c.chunk.js",
-    "static/media/soppingCart.svg": "/mymarket-react/static/media/soppingCart.2a698d837722e1cf05d0.svg",
-    "index.html": "/mymarket-react/index.html",
-    "main.63250835.css.map": "/mymarket-react/static/css/main.63250835.css.map",
-    "main.048efa8f.js.map": "/mymarket-react/static/js/main.048efa8f.js.map",
-    "787.b701888c.chunk.js.map": "/mymarket-react/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/my-market-react/static/css/main.ebf4fa85.css",
+    "main.js": "/my-market-react/static/js/main.16656c57.js",
+    "static/js/787.b701888c.chunk.js": "/my-market-react/static/js/787.b701888c.chunk.js",
+    "static/media/soppingCart.svg": "/my-market-react/static/media/soppingCart.2a698d837722e1cf05d0.svg",
+    "index.html": "/my-market-react/index.html",
+    "main.ebf4fa85.css.map": "/my-market-react/static/css/main.ebf4fa85.css.map",
+    "main.16656c57.js.map": "/my-market-react/static/js/main.16656c57.js.map",
+    "787.b701888c.chunk.js.map": "/my-market-react/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63250835.css",
-    "static/js/main.048efa8f.js"
+    "static/css/main.ebf4fa85.css",
+    "static/js/main.16656c57.js"
   ]
 }
