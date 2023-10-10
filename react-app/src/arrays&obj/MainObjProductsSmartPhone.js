@@ -86,12 +86,12 @@ export const MainObjProductsSmartPhone = {
               colorId: "red",
               idTr: "красный",
 
-              src: "../image/images/iPhone_13/color-1.png",
+              src: "./image/images/iPhone_13/color-1.png",
               alt: "корпус телефона в красном исполнении",
               typeCollor: [
                 {
                   id: 1,
-                  src: "../image/images/iPhone_13/img_red/red-4.jpg",
+                  src: "./image/images/iPhone_13/img_red/red-4.jpg",
 
                   alt: "телефон iPhone задняя панель с камерой и изображение в анфас",
                 },
