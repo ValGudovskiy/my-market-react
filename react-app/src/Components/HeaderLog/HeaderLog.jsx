@@ -5,7 +5,7 @@ function HeaderLog(proms){
         <div className="header__log">
         <img
           className="header__img_logo"
-          src="./image/logo_favicon/logo-market.png"
+          src="https://valgudovskiy.github.io/my-market-react/image/logo_favicon/logo-market.png"
           alt="логотип"
         />
         <h1 className="header__title-h1">
