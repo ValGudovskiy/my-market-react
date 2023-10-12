@@ -9,4 +9,15 @@
   margin: 0;
 }
 
+.color-block {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.color-block__title-h3 {
+  margin: 0;
+  flex-basis: 100%;
+  order: -1;
+  min-width: 550px;
+}
 

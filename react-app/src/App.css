@@ -6,6 +6,9 @@
   .main__specification {
     width: 594px;
   }
+  .color-block__title-h3 {
+    min-width: 0;
+  }
   .product__img,
   .product {
     height: 272px;

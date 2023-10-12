@@ -3,11 +3,11 @@ import "./Advertisement.css";
 let infoAdvert = [
   { id: "1",
    class: "aside__iframe",
-    src: "../advert/advertisement.html" },
+    src: "https://valgudovskiy.github.io/my-market-react/advert/advertisement.html" },
   {
     id: "2",
     class: "aside__iframe aside__iframe_2",
-    src: "../advert/advertisement.html",
+    src: "https://valgudovskiy.github.io/my-market-react/advert/advertisement.html",
   },
 ];
 

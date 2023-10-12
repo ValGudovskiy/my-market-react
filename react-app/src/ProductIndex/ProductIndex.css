@@ -12,3 +12,9 @@ text-decoration: none;
 .productIndex_nav{
     display: flex;
 }
+.ulIndex{
+padding: 10px;
+}
+.liIndex{
+    padding: 10px;
+}

@@ -3,7 +3,7 @@ const arrReviews = [
       id: 1,
       userName: "Марк Г.",
       altMen: "фотография человека",
-      srcMen: "../image/images/review-1.jpeg",
+      srcMen: "https://valgudovskiy.github.io/my-market-react/image/images/review-1.jpeg",
       classNameMen: "reviews-block__photo-man reviews-block__photo-man-1",
   
       rating: "5",
@@ -18,7 +18,7 @@ const arrReviews = [
       id: 2,
       userName: "Валерий Коваленко",
       altMen: "фотография человека",
-      srcMen: "../image/images/review-2.jpeg",
+      srcMen: "https://valgudovskiy.github.io/my-market-react/image/images/review-2.jpeg",
       classNameMen: "reviews-block__photo-man reviews-block__photo-man-1",
   
       rating: "4",
