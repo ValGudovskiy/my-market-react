@@ -20,7 +20,6 @@ let arrNav = [
 
 const arrProducts = MainObjProductsSmartPhone.value;
 let objMarkerPageCartClon = {};
-console.log(arrProducts);
 export default function PageCart(props) {
   let dispatch = useDispatch();
   let arrCartProducts = useSelector((s) => s.cart).products;

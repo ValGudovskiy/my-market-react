@@ -896,3 +896,21 @@ arrPositions.forEach((element, index) => {
     });
   }
 });
+
+function creatArrProductsOfMainObj(obj){
+  let arr = [];
+  obj.value.forEach((el)=>
+  {
+    let arrKeys = Object.keys(el.products);
+    arrKeys.forEach((product)=>{
+     el.products[product].arrConfigProduct.forEach((position)=>
+      arr.push(position)
+     )
+    })
+  }
+  )
+
+  return arr
+}
+
+export const arrCategoriesProductsWithPosition = creatArrProductsOfMainObj(MainObjProductsSmartPhone)

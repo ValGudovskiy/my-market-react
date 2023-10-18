@@ -14,15 +14,16 @@ import PageProfileUser from "./PageProfileUser/PageProfileUser";
 import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
 import DivClassBody from "./Components/DivClassBody/DivClassBody";
-import { useSelector, } from "react-redux";
+import { useSelector } from "react-redux";
 import PageAdmin from "./PageAdmin/PageAdmin";
 import DivClassBodyContainer from "./Components/DivClassBodyContainer/DivClassBodyContainer";
 let arrAuthUser = [{ path: "/pageAdmin/:id", Component: PageAdmin }];
 
 function App() {
-   let arrProducts = MainObjProductsSmartPhone.value;
+  let arrProducts = MainObjProductsSmartPhone.value;
 
-   let objStatusUser = useSelector((state) => state.authUser).adminStatus;
+  let objStatusUser = useSelector((state) => state.authUser).adminStatus;
+
   let arrPublicUser = [
     { path: `/product/:id`, Component: PageProduct },
     { path: "/product/like", Component: PageLike },
@@ -69,7 +70,7 @@ function App() {
                             element={
                               <el.Component
                                 arrPositions={el.arrPositions ?? []}
-                                arrProducts={arrProducts }
+                                arrProducts={arrProducts}
                               />
                             }
                           ></Route>
@@ -78,7 +79,7 @@ function App() {
                             element={
                               <el.Component
                                 arrPositions={el.arrPositions ?? []}
-                                arrProducts={arrProducts }
+                                arrProducts={arrProducts}
                               />
                             }
                           >
@@ -87,7 +88,7 @@ function App() {
                               element={
                                 <el.Component
                                   arrPositions={el.arrPositions ?? []}
-                                  arrProducts={arrProducts }
+                                  arrProducts={arrProducts}
                                 />
                               }
                             ></Route>
@@ -96,7 +97,7 @@ function App() {
                               element={
                                 <el.Component
                                   arrPositions={el.arrPositions ?? []}
-                                  arrProducts={arrProducts }
+                                  arrProducts={arrProducts}
                                 />
                               }
                             ></Route>

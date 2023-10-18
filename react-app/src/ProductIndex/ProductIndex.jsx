@@ -4,14 +4,15 @@ import "./ProductIndex.css";
 import DivClassBodyContainer from "../Components/DivClassBodyContainer/DivClassBodyContainer";
 import Nav from "../Components/Nav/Nav";
 import { useEffect } from "react";
+import Slider from "../Components/Slider/Slider";
+import { arrCategoriesProductsWithPosition } from "../arrays&obj/MainObjProductsSmartPhone";
 
 function PageIndex(props) {
   const [arrPositions, idArr] = props.arrPositions;
-  // const arrPosition = arrPositions[0];
   let arrNav = [...arrPositions];
   const location = useLocation();
   useEffect(() => {}, [location]);
-
+  console.log(arrCategoriesProductsWithPosition);
   return (
     <>
       <DivClassBodyContainer
@@ -30,7 +31,7 @@ function PageIndex(props) {
             </div>
 
             {arrPositions.slice(1).map((element, index) =>
-              element.id === idArr || !idArr ? (
+              element.id === idArr ? (
                 <div
                   className="productIndex_1"
                   key={element.id.split("/")[0] + "ProductIndex"}
@@ -45,11 +46,14 @@ function PageIndex(props) {
                             {element.value.length > 0
                               ? element.value.map((element) => (
                                   <ul key={element.id} className="ulIndex">
-                                    {element.name }
+                                    {element.name}
                                     {element.value.length > 0
                                       ? element.value.map((element) => {
                                           return (
-                                            <li key={element} className="liIndex">
+                                            <li
+                                              key={element}
+                                              className="liIndex"
+                                            >
                                               <Link
                                                 to={"../product/" + element}
                                               >
@@ -71,6 +75,7 @@ function PageIndex(props) {
                 ""
               )
             )}
+            <Slider arr={arrCategoriesProductsWithPosition} />
           </>
         }
       />
